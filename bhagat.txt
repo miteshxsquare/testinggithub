@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is master editing
 this is hardik pandya file
+=======
+this is bhagatsing file
+from indian soldser
+i love bhagatsing
+>>>>>>> kushwaha
